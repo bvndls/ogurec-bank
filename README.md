@@ -2,7 +2,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/bvndls/stub?style=flat-square&svg=true)
 ![License](https://img.shields.io/github/license/bvndls/stub?style=flat-square&svg=true)
 
-A website for an imaginary bank
+__[RU]__ A website for an imaginary bank
 
 - HTML
 - TailwindCSS
